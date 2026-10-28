@@ -1,0 +1,20 @@
+{
+  "name": "pharmadash-egyptian-market-app",
+  "version": "1.0.0",
+  "description": "PharmaDash - Executive Market Intelligence & Defined Market Analytics Platform for Egyptian Pharmaceutical Market",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve .",
+    "dev": "serve ."
+  },
+  "keywords": [
+    "pharmaceutical",
+    "market-analytics",
+    "egyptian-pharma",
+    "iqvia",
+    "dashboard",
+    "business-intelligence"
+  ],
+  "author": "PharmaDash Team",
+  "license": "MIT"
+}
